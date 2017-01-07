@@ -1,0 +1,84 @@
+﻿* {
+margin:0;
+padding:0;
+vertical-align:baseline;
+}
+header{	
+	background-color:#adf4fa;
+	background-image: url("img/desenvolvedor.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+}
+header>.divisao{
+	height: 5px;
+	background: #adad85;
+}
+footer>.divisao{
+	height: 5px;
+	background: #8080ff;
+}
+.btn-bege{	
+	text-decoration: none;
+	color: #6c3ca0;
+	font-weight: bold;
+	padding: 8px 8px 8px 8px;
+	margin:2px 2px 2px 2px;
+}
+.btn-bege:hover{
+	background-color: #ccccb3;		
+	border-top-left-radius: 8px;	
+	border-top-right-radius: 8px;	
+}
+.link{
+	text-decoration: none;
+	color: #6c3ca0;
+}
+.espacamento{	
+	padding: 15px 40px 15px 15px;
+}
+.margem{	
+	margin:2px 2px 2px 2px;
+}
+.menu{	
+	float: right;
+	background-color: rgba(235,235,224,0.8);
+	padding: 8px 8px 8px 8px;
+	margin: 6.7% 10% 0% 0%;
+	border-top-left-radius: 8px;	
+	border-top-right-radius: 8px;
+}
+.menu>a{
+	text-decoration:none;
+}
+.menu>a:hover{
+	
+}
+.seta{
+	display: scroll;
+	position: fixed;
+	float: right;
+}
+
+.whatsapp{
+	background-color:#50ca5f;
+	width: 60px;
+	height: 310px;	
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	padding-top: 60px;
+	padding-left: 10px;
+}
+.whatsapp:hover{
+	background-color:#50ca5f;
+	width: 10%;
+} 
+footer{
+	background-color: #e6e6ff;
+	color: #000;
+	height: 200px;
+	clear: both;
+	text-align: 
+}
