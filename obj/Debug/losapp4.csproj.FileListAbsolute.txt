@@ -1,4 +1,0 @@
-c:\users\hackbras\documents\visual studio 2010\Projects\MvcApplication3\losapp4\bin\losapp4.dll
-c:\users\hackbras\documents\visual studio 2010\Projects\MvcApplication3\losapp4\bin\losapp4.pdb
-c:\users\hackbras\documents\visual studio 2010\Projects\MvcApplication3\losapp4\obj\Debug\losapp4.dll
-c:\users\hackbras\documents\visual studio 2010\Projects\MvcApplication3\losapp4\obj\Debug\losapp4.pdb

@@ -1,0 +1,50 @@
+*{margin:0px;padding:0px;border:0px;}
+/*main{
+    position:relative;
+}*/
+#container{
+    margin-top:60%;
+}
+#menu{    
+		height: 150px;
+		width: 100%;
+		position: fixed;
+		background: #ccc;
+		transition:all 0.4s;
+}
+
+nav{
+    padding-left:20px;
+    background-color:yellow;
+}
+nav>a{
+    padding:0px 10px 0px 10px;
+    color:white;
+}
+.paralax{
+    background-image:url("../img/responsividade.jpg");
+    background-attachment:fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:180px;
+    height:700px;
+    color:white;
+    font-weight:bold;
+}
+.banner{
+    background-image:url("../img/desenvolvedor.jpg");
+    background-repeat:no-repeat;
+    margin:10px 0px 10px 0px;
+    width:100%;
+    background-color:#adf4fa;
+    border-top:40px solid white;
+    border-bottom:5px solid white;
+    text-align:right;
+}
+summary{
+    text-align:center;
+}
+article,div{
+    padding:100px 100px 100px 100px;
+}
