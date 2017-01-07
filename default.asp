@@ -1,7 +1,7 @@
 <!doctype>
 <html>
 	<head>
-			
+		<title>Los App</title>		
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>		
 		<script type="text/javascript">//caroussel
@@ -9,36 +9,17 @@
 				$('.slider').slider({full_width: false});
 	
 			});
-	    </script>
-			
-	    <script type="text/javascript" >
-						
-			function Scroll(){
-			var top = document.getElementById('menu');
-			var ypos = window.pageYOffset;
-			if(ypos > 587) {
-				top.style.color = "yellow";
-			}
-			else{
-				top.style.color = "pink";
-				}
-			}
-				window.addEventListener("scroll",Scroll);
-
-		</script>    
+	    </script>	    
 		
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">			
 	    <link rel="stylesheet" href="theme\custom.css">
 
-		
-	    
-	    <title>Los App</title>	
 	    <link rel="shortcut icon" href="img/logo_suportedeskv4.png" type="image/x-png">
 	</head>
 
 	<body>
 		
-			<main id="menu"  class="navbar-fixed nav-wrapper">
+			<main class="navbar-fixed nav-wrapper">
 			<nav class="transparent">			
 			
 			<ul>
@@ -48,6 +29,7 @@
 			</ul>		
 			<a class="brand-logo right" href="#"><img src="img/logo_losapp3.png" width="210px"></a>
 			</nav>
+			<img class="responsive-image home" src="img/man-working.jpg"  width="100%">
 			</main>	
 		
 		<section id="container">
